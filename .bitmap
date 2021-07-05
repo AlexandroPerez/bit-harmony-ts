@@ -7,5 +7,11 @@
         "mainFile": "index.ts",
         "rootDir": "my-scope/ui/button"
     },
+    "ui/card": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "my-scope/ui/card"
+    },
     "$schema-version": "14.9.0"
 }
