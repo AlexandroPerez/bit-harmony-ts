@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./card.module.scss";
-import { Button, ButtonProps } from "@my-scope/ui.button";
+import { Button, ButtonProps } from "@alexandroperez/workshop.ui.button";
 
 //                      This is a construct called intersection types
 //                      mainly used to combine existing object types.
