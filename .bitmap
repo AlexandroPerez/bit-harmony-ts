@@ -2,14 +2,14 @@
 
 {
     "ui/button": {
-        "scope": "",
-        "version": "",
+        "scope": "alexandroperez.workshop",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "my-scope/ui/button"
     },
     "ui/card": {
-        "scope": "",
-        "version": "",
+        "scope": "alexandroperez.workshop",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "my-scope/ui/card"
     },
